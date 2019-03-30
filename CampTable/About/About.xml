@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Camp Table (from CP Srv Add)</name>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <description>
+A lightweight collapsible table for doing simple tasks while traveling.
+
+Taken from CuproPanda's Survivalist's Additions, re-balanced, and packaged as a stand-alone mod.
+
+Should be backwards-compatibile with games saved with the full mod. Just uninstall Survivalist's Additions, install this mod, and you no longer have a dependency on all the other pieces.
+
+-----
+
+CREDITS:
+Taken from CuproPanda's final, abandoned version of Survivalist's Additions: https://steamcommunity.com/sharedfiles/filedetails/?id=1207562628
+And based on mantrasong's 1.0 update: https://steamcommunity.com/sharedfiles/filedetails/?id=1550854139
+  </description>
+</ModMetaData>
